@@ -1,0 +1,19 @@
+.pink {
+  background-color: #ff7f7f;
+  font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+  font-size: 18px;
+}
+.two {
+  font-size: 24px;
+}
+
+#first {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#second {
+  background-color: #00ff00;
+  font-size: 24px;
+  font-weight: bold;
+}
